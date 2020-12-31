@@ -262,13 +262,6 @@ a:not(:last-child) {
     background-size: 100%;
     padding: 20px;
   }
-  .logoImage,
-  .textSection,
-  .illustrationSection,
-  .socialMediaSection {
-    -webkit-animation: none;
-            animation: none;
-  }
   main {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
