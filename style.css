@@ -178,6 +178,7 @@ main {
   border-radius: 50px;
   width: 174px;
   font-size: 18px;
+    background-color: white;
   color: #674baf;
   font-weight: 300;
   cursor: pointer;
